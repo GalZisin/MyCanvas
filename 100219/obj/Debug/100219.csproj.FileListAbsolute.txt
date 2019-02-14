@@ -1,0 +1,7 @@
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\obj\Debug\100219.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\obj\Debug\100219.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\bin\Debug\100219.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\bin\Debug\100219.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\bin\Debug\100219.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\obj\Debug\100219.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_100219\hw_100219\100219\obj\Debug\100219.pdb
